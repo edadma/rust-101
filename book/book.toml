@@ -9,8 +9,8 @@ description = "101 Rust problems to master the language"
 build-dir = "book"
 
 [output.html]
-git-repository-url = "https://github.com/yourusername/rust-101"
-edit-url-template = "https://github.com/yourusername/rust-101/edit/main/book/{path}"
+git-repository-url = "https://github.com/edadma/rust-101"
+edit-url-template = "https://github.com/edadma/rust-101/edit/main/book/{path}"
 
 [output.html.playground]
 editable = true
