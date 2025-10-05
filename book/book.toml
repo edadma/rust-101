@@ -9,6 +9,7 @@ description = "101 Rust problems to master the language"
 build-dir = "book"
 
 [output.html]
+site-url = "/rust-101/"
 git-repository-url = "https://github.com/edadma/rust-101"
 edit-url-template = "https://github.com/edadma/rust-101/edit/main/book/{path}"
 
