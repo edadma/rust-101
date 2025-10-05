@@ -41,16 +41,6 @@ The 101 exercises are organized into 10 phases:
 - Familiarity with command line
 - A code editor (VS Code, RustRover, etc.)
 
-## Project Structure
-
-```
-rust-101/
-├── exercises/      # Exercise statements and tests
-├── hints/          # Progressive hints (separate to reduce temptation)
-├── solutions/      # Reference solutions
-└── book/           # This website
-```
-
 ## Philosophy
 
 These exercises teach Rust by:
