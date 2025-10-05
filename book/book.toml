@@ -1,0 +1,20 @@
+[book]
+authors = ["Edward A Maxedon"]
+language = "en"
+src = "src"
+title = "Rust 101"
+description = "101 Rust problems to master the language"
+
+[build]
+build-dir = "book"
+
+[output.html]
+git-repository-url = "https://github.com/yourusername/rust-101"
+edit-url-template = "https://github.com/yourusername/rust-101/edit/main/book/{path}"
+
+[output.html.playground]
+editable = true
+line-numbers = true
+
+[output.html.search]
+enable = true

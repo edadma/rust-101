@@ -1,0 +1,20 @@
+# Rust
+/target/
+**/*.rs.bk
+*.pdb
+
+# mdBook build output
+book/book/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+
+# Backup files
+*.bak
