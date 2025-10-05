@@ -91,4 +91,4 @@ mod tests {
 
 ---
 
-**Need help?** [View Hints](../../hints/02_sum_of_squares.html) | [View Solution](../../solutions/02_sum_of_squares.html)
+**Need help?** [View Hints](/rust-101/hints/02_sum_of_squares.html) | [View Solution](/rust-101/solutions/02_sum_of_squares.html)

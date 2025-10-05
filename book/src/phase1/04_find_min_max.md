@@ -139,4 +139,4 @@ mod tests {
 
 ---
 
-**Need help?** [View Hints](../../hints/04_find_min_max.html) | [View Solution](../../solutions/04_find_min_max.html)
+**Need help?** [View Hints](/rust-101/hints/04_find_min_max.html) | [View Solution](/rust-101/solutions/04_find_min_max.html)

@@ -135,4 +135,4 @@ mod tests {
 
 ---
 
-**Need help?** [View Hints](../../hints/01_rpn_calculator.html) | [View Solution](../../solutions/01_rpn_calculator.html)
+**Need help?** [View Hints](/rust-101/hints/01_rpn_calculator.html) | [View Solution](/rust-101/solutions/01_rpn_calculator.html)

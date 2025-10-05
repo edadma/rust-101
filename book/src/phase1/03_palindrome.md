@@ -99,4 +99,4 @@ mod tests {
 
 ---
 
-**Need help?** [View Hints](../../hints/03_palindrome.html) | [View Solution](../../solutions/03_palindrome.html)
+**Need help?** [View Hints](/rust-101/hints/03_palindrome.html) | [View Solution](/rust-101/solutions/03_palindrome.html)
